@@ -1,0 +1,41 @@
+.course {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+
+  background: url(https://app.rocketseat.com.br/static/media/FeaturedCardBg.40a7d53e.png)
+    0% 0% / cover;
+
+  max-width: 330px;
+  min-width: 330px;
+  height: 500px;
+  padding: 64px;
+  border-radius: 8px;
+  margin-bottom: 25px;
+  align-items: center;
+  margin-right: 25px;
+}
+
+@media (max-width: 1120px) {
+  .course {
+    max-height: 360px;
+    max-width: 975px;
+    padding: 30px;
+  }
+}
+
+.course span {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
