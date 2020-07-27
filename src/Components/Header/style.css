@@ -6,6 +6,9 @@
   padding: 0px 30px;
   height: 80px;
   background-color: #111116;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .profile-wrapper {

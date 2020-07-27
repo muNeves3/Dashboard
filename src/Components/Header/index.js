@@ -15,7 +15,7 @@ function Header() {
           />
         </div>
         <div className="profile-wrapper">
-          <img src={bell} className="bell" />
+          <img src={bell} className="bell" alt="Notificações" />
           <div className="profile">
             <h2>Murilo de Souza Neves</h2>
             <h4>murilodesouzaneves@gmail.com</h4>
