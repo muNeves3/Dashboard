@@ -18,11 +18,24 @@
   margin-right: 25px;
 }
 
+.color {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
 @media (max-width: 1120px) {
   .course {
     max-height: 360px;
     max-width: 975px;
     padding: 30px;
+  }
+}
+
+@media (-width: 400px) {
+  .course {
+    max-width: 260px;
   }
 }
 
