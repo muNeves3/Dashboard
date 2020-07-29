@@ -1,5 +1,7 @@
 <h1 align="center">Dashboard Clone 👊</h1>
 
+<a href="https://happy-bartik-bac138.netlify.app">Link to the site</a>
+
 <p> 
     <img src="./src/Assets/Screenshot_1.png"/>
 </p>
