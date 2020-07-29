@@ -32,8 +32,8 @@ yarn start
 
 ## How to contribute? 🤔
 
-# Fork this repository
-
-# Change what you think is best
-
-# Make a pull request
+<ul> 
+    <li>Fork this repository</li>
+    <li>Change what you think is best</li>
+    <li>Make a pull request</li>
+</ul>
