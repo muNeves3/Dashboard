@@ -2,16 +2,32 @@
   text-align: center;
 }
 
-.content {
+.content-wrapper {
   display: flex;
-  padding: 100px 150px;
   justify-content: center;
+}
+
+.content {
+  width: 100%;
+  max-width: 1366px;
+  margin-top: 60px;
+  padding: 48px;
+  display: flex;
   align-items: center;
+  -webkit-box-pack: center;
+  justify-content: space-between;
 }
 
 @media (max-width: 1120px) {
   .content {
     display: flex;
+    align-items: center;
     flex-direction: column;
+  }
+}
+
+@media (max-width: 1250px) {
+  .content {
+    padding: 48px 0;
   }
 }

@@ -5,7 +5,7 @@ import "./index.css";
 function Courses(props) {
   return (
     <div disabled color={props.color}>
-      <div className="course" color={props.color}>
+      <div className="course" style={{ borderColor: props.color }}>
         <span style={{ color: props.color, borderColor: props.color }}>
           {props.num}
         </span>
