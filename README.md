@@ -4,27 +4,27 @@
     <img src="./src/Assets/Screenshot_1.png"/>
 </p>
 
-## Getting Started :computer:
+# Getting Started :computer:
 
-# Make a clone of the repository: :robot:
+## Make a clone of the repository: :robot:
 
 ```sh
 git clone https ://github.com/muNeves3/Dashboard
 ```
 
-# Go to the directory ↪️
+## Go to the directory ↪️
 
 ```sh
 cd Dashboard
 ```
 
-# Install the dependencies: :rocket:
+## Install the dependencies: :rocket:
 
 ```sh
 npm install
 ```
 
-# Run the app :rocket:
+## Run the app :rocket:
 
 ```sh
 yarn start
